@@ -1,0 +1,28 @@
+.counter-section {
+  background: rgb(104, 104, 228);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 100vh;
+}
+
+.container-counter {
+  background-color: rgb(107, 184, 209);
+  padding: 20px;
+  color: aliceblue;
+  border-style: solid;
+}
+
+button {
+  font-size: calc(7px + 2vmin);
+  margin: 5px;
+  padding: 10px;
+  border-style: none;
+}
+
+#counter {
+  min-width: 450px;
+  padding: 2rem;
+  font-size: 45px;
+}
